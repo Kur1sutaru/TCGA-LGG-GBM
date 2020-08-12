@@ -161,7 +161,7 @@ datatable(maf[1:20,],
 library(maftools)
 library(dplyr)
 
-# Pipelines disponiveis - https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/DNA_Seq_Variant_Calling_Pipeline/
+# Other example - https://docs.gdc.cancer.gov/Data/Bioinformatics_Pipelines/DNA_Seq_Variant_Calling_Pipeline/
 maf <- GDCquery_Maf("LGG", pipelines = "muse") %>% read.maf
 
 datatable(getSampleSummary(maf),
