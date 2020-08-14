@@ -1,0 +1,9 @@
+Access	File Name	Cases	Project	Data Category	Data Format	File Size	Annotations
+open	TCGA.GBM.mutect.da904cd3-79d7-4ae3-b6c0-e7127998b3e6.DR-10.0.somatic.maf.gz	396	TCGA-GBM	Simple Nucleotide Variation	MAF	20.42 MB	91
+controlled	TCGA.GBM.mutect.1d22891a-9e55-41b4-80b0-b1f1757779e9.DR-10.0.protected.maf.gz	396	TCGA-GBM	Simple Nucleotide Variation	MAF	741.41 MB	91
+open	TCGA.GBM.muse.59a84472-27d4-497c-8f37-8bc447ff9374.DR-10.0.somatic.maf.gz	396	TCGA-GBM	Simple Nucleotide Variation	MAF	12.59 MB	91
+open	TCGA.GBM.varscan.8f06ee91-d5ab-4024-98fb-b6c46f9d90a9.DR-10.0.somatic.maf.gz	396	TCGA-GBM	Simple Nucleotide Variation	MAF	13.08 MB	91
+controlled	TCGA.GBM.varscan.d6da7782-212b-4ac5-863a-c850fe805a6d.DR-10.0.protected.maf.gz	396	TCGA-GBM	Simple Nucleotide Variation	MAF	150.52 MB	91
+controlled	TCGA.GBM.muse.8fcf3e6e-38ea-47a6-8f6c-72d52dc02f25.DR-10.0.protected.maf.gz	396	TCGA-GBM	Simple Nucleotide Variation	MAF	67.74 MB	91
+open	TCGA.GBM.somaticsniper.61b82eef-f454-434f-a1ca-e9928fd4b936.DR-10.0.somatic.maf.gz	396	TCGA-GBM	Simple Nucleotide Variation	MAF	10.41 MB	91
+controlled	TCGA.GBM.somaticsniper.0db6e97d-4081-440a-940a-7f5d5c26b2dd.DR-10.0.protected.maf.gz	396	TCGA-GBM	Simple Nucleotide Variation	MAF	164.85 MB	91

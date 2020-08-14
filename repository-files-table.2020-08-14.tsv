@@ -1,0 +1,9 @@
+Access	File Name	Cases	Project	Data Category	Data Format	File Size	Annotations
+open	TCGA.LGG.muse.27330980-b14d-4d4d-bd65-5eb19c597c9c.DR-10.0.somatic.maf.gz	513	TCGA-LGG	Simple Nucleotide Variation	MAF	7.19 MB	54
+open	TCGA.LGG.varscan.7381c199-3770-4453-bb27-68fbd356cb54.DR-10.0.somatic.maf.gz	513	TCGA-LGG	Simple Nucleotide Variation	MAF	7.64 MB	54
+controlled	TCGA.LGG.varscan.79ace941-396e-4fde-a759-581219a1cd34.DR-10.0.protected.maf.gz	513	TCGA-LGG	Simple Nucleotide Variation	MAF	57.09 MB	54
+controlled	TCGA.LGG.somaticsniper.69d03ec5-2e0d-45ea-a568-4740815007c0.DR-10.0.protected.maf.gz	513	TCGA-LGG	Simple Nucleotide Variation	MAF	93.84 MB	54
+controlled	TCGA.LGG.mutect.75251702-e8e4-4207-a0ef-02d0998de965.DR-10.0.protected.maf.gz	513	TCGA-LGG	Simple Nucleotide Variation	MAF	423.92 MB	54
+open	TCGA.LGG.mutect.1e0694ca-fcde-41d3-9ae3-47cfaf527f25.DR-10.0.somatic.maf.gz	513	TCGA-LGG	Simple Nucleotide Variation	MAF	8.94 MB	54
+open	TCGA.LGG.somaticsniper.76313658-c6df-4f73-8e04-affdbb0013bd.DR-10.0.somatic.maf.gz	513	TCGA-LGG	Simple Nucleotide Variation	MAF	6.03 MB	54
+controlled	TCGA.LGG.muse.cf681594-4935-45f2-a7bd-d02533d91bc9.DR-10.0.protected.maf.gz	513	TCGA-LGG	Simple Nucleotide Variation	MAF	36.17 MB	54
